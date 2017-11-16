@@ -19,7 +19,7 @@
 
 ## 2. Main Interface 변경
 **[Project name] - TARGETS - General - Deployment Info - Main Interface를 빈칸으로 놔둔다.** 
-![IMAGE](resources/0913E796D92557DC7B82E2C750100EEE.jpg =1235x418)
+<img src="resources/0913E796D92557DC7B82E2C750100EEE.jpg" alt="" title="Angular" hspace="4" width="600"/>
 
 ## 3. Main.storyboard 삭제
 온리코드로 작업할 예정이라면 삭제해도 좋다. LaunchScreen.storyboard는 삭제하지 마라.
