@@ -6,4 +6,4 @@
 1. [Default Setting: 기본 세팅](https://github.com/krgoodnews/BuildAppOnlySwiftCode/blob/master/p1_1_Default%20setting.md)
 
 ## 기타
-- 추천 라이브러리
+- [추천 라이브러리](https://github.com/krgoodnews/BuildAppOnlySwiftCode/blob/master/%EC%B6%94%EC%B2%9C%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
